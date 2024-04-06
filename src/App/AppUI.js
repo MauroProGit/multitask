@@ -57,7 +57,7 @@ function AppUI () {
         </Modal>          
         )}
 
-        <TodoCreateButton />
+        <TodoCreateButton />//Mirando muy por encima tu codigo me llama la atencion si este boton si deberia ir dentro del 'TodoContext.Consumer'
 
         <Footer />
       </>
